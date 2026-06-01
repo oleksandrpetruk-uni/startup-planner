@@ -1,4 +1,4 @@
-
+# Гілка для проведення Code Review
 class BlockerAnalyzer:
     def analyze_problem(self, text: str) -> list:
         """Аналізує текст проблеми та повертає список ризиків."""
